@@ -6,12 +6,7 @@ Notepad++ v6.9.2 new features and bug-fixes:
 4.  Fix open in explorer problem while path contain unusual characters.
 5.  Fix smart highlighter issue after zoom or code folding change.
 
-Included plugins:
-
-1.  NppExport v0.2.8
-2.  Plugin Manager 1.3.5
-3.  Converter 3.0
-4.  Mime Tool 1.9
-
 
 hahah  i 
+
+if you modifying the document
